@@ -1,6 +1,6 @@
 # WebSockFish-picoCTF-Writeup-real1
-<h3> Hello everyone! this is my writeup about WebSockFish from picoCTF!
-<img src="https://github.com/MaGliez/WebSockFish-picoCTF-Writeup-real1/blob/main/cell-perfect-cell.gif" style="width:20rem">
+<h3> Hello everyone! this is my writeup about WebSockFish from picoCTF!<br>
+<img src="https://github.com/MaGliez/WebSockFish-picoCTF-Writeup-real1/blob/main/cell-perfect-cell.gif" style="width:20rem"><br>
 <h3> Before we start, i want you to know that i gonna teach you on Kali linux. </h3>
 <img src="https://github.com/MaGliez/WebSockFish-picoCTF-Writeup-real1/blob/main/kalimeme.jpg" style="width:20rem">
 <h3> So Let's Start! </h3>
