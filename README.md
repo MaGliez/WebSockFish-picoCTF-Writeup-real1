@@ -1,8 +1,8 @@
 # WebSockFish-picoCTF-Writeup-real1
 </h3> Hello everyone! this is my writeup about WebSockFish from picoCTF!
-<img src="">
+<img src="https://github.com/MaGliez/WebSockFish-picoCTF-Writeup-real1/blob/main/cell-perfect-cell.gif">
 <h3> Before we start, i want you to know that i gonna teach you on Kali linux. </h3>
-<img src="">
+<img src="https://github.com/MaGliez/WebSockFish-picoCTF-Writeup-real1/blob/main/kalimeme.jpg">
 <h3> So Let's Start! </h3>
 <h3> you can click the link here to solve the problem (you need to sign in/up first!) </h3>
 <a href="https://play.picoctf.org/practice/challenge/480?difficulty=2&page=1"> https://play.picoctf.org/practice/challenge/480?difficulty=2&page=1 <a/> <br>
@@ -25,4 +25,4 @@
 <h1> Well, That's all! now we're Finish! </h1>
 <img src="https://github.com/MaGliez/WebSockFish-picoCTF-Writeup-real1/blob/main/end.png"><br><br><br>
 <h1> Thx for come visiting my github! cya! </h1>
-<img src="">
+<img src="https://github.com/MaGliez/WebSockFish-picoCTF-Writeup-real1/blob/main/perfect-cell.gif">
